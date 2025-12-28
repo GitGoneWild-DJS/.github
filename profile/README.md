@@ -13,7 +13,7 @@ We are a focused group of specialists ready to build:
 * **Vraj Ved** – Full Stack Dev
 * **Hetansh Waghela** – ML and Backend Dev
 
-Our awesome teammates:
+Our awesome associates:
 
 * **Jash Thakkar** – Full-Stack Dev
 * **Aryan Tanna** – Full Stack Dev
