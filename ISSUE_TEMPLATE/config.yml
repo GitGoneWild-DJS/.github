@@ -1,0 +1,8 @@
+blank: true
+contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/orgs/GitGoneWild-DJS/discussions
+    about: For questions, ideas, and general discussions
+  - name: Security Issues
+    url: https://github.com/GitGoneWild-DJS/.github/security/advisories/new
+    about: For security vulnerabilities (report privately!)

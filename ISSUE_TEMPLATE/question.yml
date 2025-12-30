@@ -1,0 +1,56 @@
+name: ❓ Question/Discussion
+description: Ask a question or start a discussion
+labels: ["question", "triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have a question? Need help with something? We're here to help!
+        
+        **Tip**: For extended discussions, consider opening a [GitHub Discussion](https://github.com/orgs/GitGoneWild-DJS/discussions) instead.
+
+  - type: input
+    id: title
+    attributes:
+      label: Question
+      placeholder: "What would you like to know?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Details
+      description: Provide context for your question
+      placeholder: "I'm trying to... but I'm not sure how to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-ive-tried
+    attributes:
+      label: What I've Tried
+      description: What solutions or resources have you already tried?
+      placeholder: |
+        - Tried: ...
+        - Checked: ...
+        - Searched for: ...
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Code snippets, links, or other relevant information
+      placeholder: "Any additional context..."
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I've checked the documentation
+          required: false
+        - label: I've searched for similar questions
+          required: false

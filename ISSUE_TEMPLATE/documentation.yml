@@ -1,0 +1,56 @@
+name: 📚 Documentation Issue
+description: Report missing or unclear documentation
+labels: ["documentation", "triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us improve our documentation! Let us know what's unclear or missing.
+
+  - type: input
+    id: title
+    attributes:
+      label: Documentation Issue
+      placeholder: "What's unclear or missing?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What documentation needs improvement?
+      placeholder: "The documentation for X is..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: Where is this documentation?
+      placeholder: |
+        - File/URL: 
+        - Section: 
+        - Line number (if applicable):
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested Improvement
+      description: How could this be improved?
+      placeholder: "This section should..."
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I've checked the existing documentation
+          required: true
+        - label: This isn't a duplicate of another issue
+          required: true

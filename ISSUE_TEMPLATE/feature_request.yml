@@ -1,0 +1,88 @@
+name: ✨ Feature Request
+description: Suggest a new feature or enhancement
+labels: ["enhancement", "triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a feature! We love hearing ideas from our community.
+
+  - type: input
+    id: title
+    attributes:
+      label: Feature Title
+      placeholder: "Brief, descriptive title for the feature"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem does this solve? What's the motivation?
+      placeholder: |
+        Is your feature request related to a problem? Please describe it.
+        E.g., "I'm always frustrated when [...]"
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: How would you like it to work?
+      placeholder: |
+        Describe the solution you'd like to see.
+        What should happen? How should it work?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative Solutions
+      description: Have you considered other approaches?
+      placeholder: |
+        List other solutions or workarounds you've considered.
+        Why is your approach better?
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples/Use Cases
+      description: Real-world examples of when this would be useful
+      placeholder: |
+        Example 1: ...
+        Example 2: ...
+        Example 3: ...
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: Potential Impact
+    description: How would this benefit users? What's the scope?
+      placeholder: |
+        - Who would benefit from this?
+        - How many users would this affect?
+        - What's the priority/urgency?
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other information you'd like to add
+      placeholder: "Links, references, sketches, etc."
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I have searched for existing feature requests
+          required: true
+        - label: This doesn't duplicate existing functionality
+          required: true
+        - label: I've provided clear use cases
+          required: false
