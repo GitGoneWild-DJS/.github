@@ -47,8 +47,8 @@ Files in this repository apply to **every repository** in the GitGoneWild-DJS or
 |:-------|:-----|:-------|
 | **Nikhil Pise** | AI-ML Developer | [@N1KH1LT0X1N](https://github.com/N1KH1LT0X1N) |
 | **Darshan Ved** | Full Stack Developer | [@darved2305](https://github.com/darved2305) |
-| **Vraj Ved** | Full Stack Developer | [@Vraj2712](https://github.com/Vraj2712) |
-| **Hetansh Waghela** | ML & Backend Developer | [@Hetansh20](https://github.com/Hetansh20) |
+| **Vraj Ved** | Full Stack Developer | [@VrajVed](https://github.com/VrajVed) |
+| **Hetansh Waghela** | ML & Backend Developer | [@HetanshWaghela](https://github.com/HetanshWaghela) |
 
 ---
 

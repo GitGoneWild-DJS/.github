@@ -45,23 +45,35 @@ Our mission? **Transform complex problems into elegant, scalable solutions** thr
 <img src="https://img.shields.io/badge/Full%20Stack-Dev-3B82F6?style=for-the-badge" alt="Full Stack"/><br/>
 <b>Vraj Ved</b><br/>
 <sub>🔧 Full Stack Developer</sub><br/>
-<a href="https://github.com/Vraj2712"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/VrajVed"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub"/></a>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/ML%20%2F%20Backend-Dev-10B981?style=for-the-badge" alt="ML/Backend"/><br/>
 <b>Hetansh Waghela</b><br/>
 <sub>🔬 ML & Backend Developer</sub><br/>
-<a href="https://github.com/Hetansh20"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/HetanshWaghela"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub"/></a>
 </td>
 </tr>
 </table>
 
 ### 🤝 Associate Contributors
 
-| Contributor | Specialization | Projects |
-|:-----------:|:--------------|:---------|
-| **Jash Thakkar** | Full-Stack Development | `Pramana.AI` • `VidyaSetu` |
-| **Aryan Tanna** | Full-Stack Development | `Saral.AI` |
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Full%20Stack-Dev-3B82F6?style=for-the-badge" alt="Full Stack"/><br/>
+<b>Jash Thakkar</b><br/>
+<sub>💻 Full Stack Developer</sub><br/>
+<a href="https://github.com/JashT14"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub"/></a>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Full%20Stack-Dev-3B82F6?style=for-the-badge" alt="Full Stack"/><br/>
+<b>Aryan Tanna</b><br/>
+<sub>🚀 Full Stack Developer</sub><br/>
+<a href="https://github.com/Aryan-Tanna"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
